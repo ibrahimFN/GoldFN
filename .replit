@@ -1,3 +1,0 @@
-
-language = "python3"
-run = "pip install GoldFN --upgrade\npip3 install -r requirements.txt\npython3 fortnite.py" 
